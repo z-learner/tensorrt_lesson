@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/root/dep/cudnn-linux-x86_64-8.9.3.28_cuda11-archive/lib/:$LD_LIBRARY_PATH
