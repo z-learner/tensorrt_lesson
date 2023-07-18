@@ -22,5 +22,5 @@ y = model(x)
 print(y)
 
 torch.onnx.export(
-    model, (x, ), "lesson1.onnx", verbose=True
+    model, (x, ), "lesson2.onnx", verbose=True
 )
